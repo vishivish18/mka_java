@@ -1,0 +1,405 @@
+src/mka/MKA.java:3:	Possible God class (WMC=126, ATFD=610, TCC=0.08333333333333333)
+src/mka/MKA.java:31:	Avoid duplicate imports such as 'java.io.IOException'
+src/mka/MKA.java:34:	Avoid unused imports such as 'java.net.UnknownHostException'
+src/mka/MKA.java:36:	Avoid really long classes.
+src/mka/MKA.java:36:	Avoid short class names like MKA
+src/mka/MKA.java:36:	The class 'MKA' has a Cyclomatic Complexity of 9 (Highest = 41).
+src/mka/MKA.java:36:	The class 'MKA' has a Modified Cyclomatic Complexity of 9 (Highest = 37).
+src/mka/MKA.java:36:	The class 'MKA' has a Standard Cyclomatic Complexity of 9 (Highest = 37).
+src/mka/MKA.java:36:	Too many fields
+src/mka/MKA.java:36:	headerCommentRequirement Required
+src/mka/MKA.java:38:	This class has too many methods, consider refactoring it.
+src/mka/MKA.java:40:	Avoid variables with short names like s
+src/mka/MKA.java:40:	fieldCommentRequirement Required
+src/mka/MKA.java:42:	fieldCommentRequirement Required
+src/mka/MKA.java:44:	Avoid using redundant field initializer for 'flag'
+src/mka/MKA.java:44:	fieldCommentRequirement Required
+src/mka/MKA.java:45:	Avoid using redundant field initializer for 'frameflag'
+src/mka/MKA.java:45:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:45:	fieldCommentRequirement Required
+src/mka/MKA.java:47:	Avoid using redundant field initializer for 'aflag'
+src/mka/MKA.java:47:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:47:	fieldCommentRequirement Required
+src/mka/MKA.java:48:	Avoid using redundant field initializer for 'aboutflag'
+src/mka/MKA.java:48:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:48:	fieldCommentRequirement Required
+src/mka/MKA.java:50:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:50:	fieldCommentRequirement Required
+src/mka/MKA.java:53:	Avoid excessively long variable names like mouseDownCompCoords
+src/mka/MKA.java:53:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:53:	fieldCommentRequirement Required
+src/mka/MKA.java:54:	Avoid variables with short names like cp
+src/mka/MKA.java:54:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:54:	fieldCommentRequirement Required
+src/mka/MKA.java:55:	Avoid variables with short names like mp
+src/mka/MKA.java:55:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:55:	fieldCommentRequirement Required
+src/mka/MKA.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:56:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:56:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:56:	fieldCommentRequirement Required
+src/mka/MKA.java:57:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:57:	fieldCommentRequirement Required
+src/mka/MKA.java:58:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:58:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:58:	fieldCommentRequirement Required
+src/mka/MKA.java:59:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:59:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:59:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:59:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:59:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:59:	fieldCommentRequirement Required
+src/mka/MKA.java:60:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:60:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:60:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:60:	fieldCommentRequirement Required
+src/mka/MKA.java:63:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:63:	fieldCommentRequirement Required
+src/mka/MKA.java:69:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:69:	fieldCommentRequirement Required
+src/mka/MKA.java:71:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:71:	fieldCommentRequirement Required
+src/mka/MKA.java:72:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:72:	fieldCommentRequirement Required
+src/mka/MKA.java:73:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:73:	fieldCommentRequirement Required
+src/mka/MKA.java:74:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:74:	fieldCommentRequirement Required
+src/mka/MKA.java:76:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:76:	fieldCommentRequirement Required
+src/mka/MKA.java:77:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:77:	fieldCommentRequirement Required
+src/mka/MKA.java:78:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:78:	fieldCommentRequirement Required
+src/mka/MKA.java:80:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:80:	fieldCommentRequirement Required
+src/mka/MKA.java:81:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:81:	fieldCommentRequirement Required
+src/mka/MKA.java:82:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:82:	fieldCommentRequirement Required
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:84:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eoff1' starts with uppercase character.
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eoff2' starts with uppercase character.
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eoff3' starts with uppercase character.
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eon1' starts with uppercase character.
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eon2' starts with uppercase character.
+src/mka/MKA.java:84:	Variables should start with a lowercase character, 'Eon3' starts with uppercase character.
+src/mka/MKA.java:84:	fieldCommentRequirement Required
+src/mka/MKA.java:85:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:85:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:85:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:85:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:85:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:85:	Variables should start with a lowercase character, 'Soff1' starts with uppercase character.
+src/mka/MKA.java:85:	Variables should start with a lowercase character, 'Soff2' starts with uppercase character.
+src/mka/MKA.java:85:	Variables should start with a lowercase character, 'Son1' starts with uppercase character.
+src/mka/MKA.java:85:	Variables should start with a lowercase character, 'Son2' starts with uppercase character.
+src/mka/MKA.java:85:	fieldCommentRequirement Required
+src/mka/MKA.java:87:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:87:	fieldCommentRequirement Required
+src/mka/MKA.java:88:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:88:	fieldCommentRequirement Required
+src/mka/MKA.java:89:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:89:	fieldCommentRequirement Required
+src/mka/MKA.java:92:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:92:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:92:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:92:	fieldCommentRequirement Required
+src/mka/MKA.java:93:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:93:	fieldCommentRequirement Required
+src/mka/MKA.java:94:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:94:	fieldCommentRequirement Required
+src/mka/MKA.java:95:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:95:	fieldCommentRequirement Required
+src/mka/MKA.java:99:	Avoid using redundant field initializer for 'E1'
+src/mka/MKA.java:99:	Avoid variables with short names like E1
+src/mka/MKA.java:99:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:99:	The field name indicates a constant but its modifiers do not
+src/mka/MKA.java:99:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:99:	Variables should start with a lowercase character, 'E1' starts with uppercase character.
+src/mka/MKA.java:99:	fieldCommentRequirement Required
+src/mka/MKA.java:101:	Avoid variables with short names like m
+src/mka/MKA.java:101:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mka/MKA.java:101:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:101:	fieldCommentRequirement Required
+src/mka/MKA.java:103:	Avoid really long methods.
+src/mka/MKA.java:103:	Found 'UR'-anomaly for variable 'info' (lines '103'-'110').
+src/mka/MKA.java:103:	publicMethodCommentRequirement Required
+src/mka/MKA.java:108:	Local variable 'info' could be declared final
+src/mka/MKA.java:117:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:117:	Avoid empty catch blocks
+src/mka/MKA.java:117:	Avoid empty catch blocks
+src/mka/MKA.java:134:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:137:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:139:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:141:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:143:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:148:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:152:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:155:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:158:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:160:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:162:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:165:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:167:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:172:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:174:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:176:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:179:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:180:	The String literal "/images/on.png" appears 4 times in this file; the first occurrence is on line 180
+src/mka/MKA.java:181:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:183:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:185:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:186:	The String literal "/images/off1.png" appears 4 times in this file; the first occurrence is on line 186
+src/mka/MKA.java:187:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:189:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:192:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:194:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:197:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:199:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:202:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:204:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:206:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:208:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:213:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:216:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:219:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:222:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:227:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:230:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:233:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:236:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:239:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:257:	publicMethodCommentRequirement Required
+src/mka/MKA.java:261:	publicMethodCommentRequirement Required
+src/mka/MKA.java:265:	publicMethodCommentRequirement Required
+src/mka/MKA.java:279:	Avoid really long methods.
+src/mka/MKA.java:279:	The method 'initcontrolpanel' has a Cyclomatic Complexity of 25.
+src/mka/MKA.java:279:	The method 'initcontrolpanel' has a Modified Cyclomatic Complexity of 25.
+src/mka/MKA.java:279:	The method 'initcontrolpanel' has a Standard Cyclomatic Complexity of 25.
+src/mka/MKA.java:279:	The method initcontrolpanel() has an NCSS line count of 447
+src/mka/MKA.java:279:	The method initcontrolpanel() has an NPath complexity of 768
+src/mka/MKA.java:279:	publicMethodCommentRequirement Required
+src/mka/MKA.java:282:	Local variable 'setting' could be declared final
+src/mka/MKA.java:299:	Local variable 'img' could be declared final
+src/mka/MKA.java:299:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:303:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:325:	Comment is too large: Too many lines
+src/mka/MKA.java:381:	Comment is too large: Too many lines
+src/mka/MKA.java:445:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:445:	The String literal "eye" appears 4 times in this file; the first occurrence is on line 445
+src/mka/MKA.java:472:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:472:	The String literal "body" appears 4 times in this file; the first occurrence is on line 472
+src/mka/MKA.java:499:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:499:	The String literal "water" appears 4 times in this file; the first occurrence is on line 499
+src/mka/MKA.java:542:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:616:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:616:	The String literal "autoupdate" appears 4 times in this file; the first occurrence is on line 616
+src/mka/MKA.java:774:	Avoid variables with short names like e
+src/mka/MKA.java:774:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:774:	publicMethodCommentRequirement Required
+src/mka/MKA.java:779:	Avoid empty catch blocks
+src/mka/MKA.java:779:	Avoid empty catch blocks
+src/mka/MKA.java:798:	Avoid variables with short names like e
+src/mka/MKA.java:798:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:798:	publicMethodCommentRequirement Required
+src/mka/MKA.java:802:	Avoid empty catch blocks
+src/mka/MKA.java:802:	Avoid empty catch blocks
+src/mka/MKA.java:867:	Avoid variables with short names like e
+src/mka/MKA.java:867:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:867:	publicMethodCommentRequirement Required
+src/mka/MKA.java:870:	Avoid empty catch blocks
+src/mka/MKA.java:870:	Avoid empty catch blocks
+src/mka/MKA.java:895:	Avoid variables with short names like e
+src/mka/MKA.java:895:	Document empty method
+src/mka/MKA.java:895:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:895:	publicMethodCommentRequirement Required
+src/mka/MKA.java:897:	Avoid variables with short names like e
+src/mka/MKA.java:897:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:897:	publicMethodCommentRequirement Required
+src/mka/MKA.java:905:	Avoid variables with short names like e
+src/mka/MKA.java:905:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:905:	publicMethodCommentRequirement Required
+src/mka/MKA.java:910:	Potential violation of Law of Demeter (static property access)
+src/mka/MKA.java:912:	System.out.println is used
+src/mka/MKA.java:914:	Avoid variables with short names like e
+src/mka/MKA.java:914:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:914:	publicMethodCommentRequirement Required
+src/mka/MKA.java:934:	Avoid variables with short names like e
+src/mka/MKA.java:934:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:934:	publicMethodCommentRequirement Required
+src/mka/MKA.java:935:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/mka/MKA.java:939:	Avoid variables with short names like e
+src/mka/MKA.java:939:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:939:	publicMethodCommentRequirement Required
+src/mka/MKA.java:944:	Avoid variables with short names like e
+src/mka/MKA.java:944:	Document empty method
+src/mka/MKA.java:944:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:944:	publicMethodCommentRequirement Required
+src/mka/MKA.java:948:	Avoid variables with short names like e
+src/mka/MKA.java:948:	Document empty method
+src/mka/MKA.java:948:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:948:	publicMethodCommentRequirement Required
+src/mka/MKA.java:952:	Avoid variables with short names like e
+src/mka/MKA.java:952:	Document empty method
+src/mka/MKA.java:952:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:952:	publicMethodCommentRequirement Required
+src/mka/MKA.java:958:	Avoid variables with short names like e
+src/mka/MKA.java:958:	Document empty method
+src/mka/MKA.java:958:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:958:	publicMethodCommentRequirement Required
+src/mka/MKA.java:962:	Avoid variables with short names like e
+src/mka/MKA.java:962:	Parameter 'e' is not assigned and could be declared final
+src/mka/MKA.java:962:	publicMethodCommentRequirement Required
+src/mka/MKA.java:963:	Local variable 'currCoords' could be declared final
+src/mka/MKA.java:964:	Avoid unused local variables such as 'cp1'.
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:964:	Found 'DU'-anomaly for variable 'cp1' (lines '964'-'1,066').
+src/mka/MKA.java:1056:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1061:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1063:	Avoid printStackTrace(); use a logger call instead.
+src/mka/MKA.java:1063:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1068:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mka/MKA.java:1068:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:1068:	fieldCommentRequirement Required
+src/mka/MKA.java:1070:	Found 'UR'-anomaly for variable 'info' (lines '1,070'-'1,081').
+src/mka/MKA.java:1070:	Parameter 'args' is not assigned and could be declared final
+src/mka/MKA.java:1070:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1072:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/mka/MKA.java:1075:	Avoid using final local variables, turn them into fields
+src/mka/MKA.java:1079:	Local variable 'info' could be declared final
+src/mka/MKA.java:1088:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1088:	Avoid empty catch blocks
+src/mka/MKA.java:1088:	Avoid empty catch blocks
+src/mka/MKA.java:1103:	Local variable 'setting' could be declared final
+src/mka/MKA.java:1104:	The String literal "timer" appears 12 times in this file; the first occurrence is on line 1,104
+src/mka/MKA.java:1105:	System.out.println is used
+src/mka/MKA.java:1106:	Do not add empty strings
+src/mka/MKA.java:1108:	Avoid variables with short names like tc
+src/mka/MKA.java:1108:	Local variable 'tc' could be declared final
+src/mka/MKA.java:1110:	Local variable 'notif' could be declared final
+src/mka/MKA.java:1120:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1125:	Avoid printStackTrace(); use a logger call instead.
+src/mka/MKA.java:1135:	Avoid really long methods.
+src/mka/MKA.java:1135:	Avoid variables with short names like ae
+src/mka/MKA.java:1135:	Parameter 'ae' is not assigned and could be declared final
+src/mka/MKA.java:1135:	The method 'actionPerformed' has a Cyclomatic Complexity of 41.
+src/mka/MKA.java:1135:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 37.
+src/mka/MKA.java:1135:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 37.
+src/mka/MKA.java:1135:	The method actionPerformed() has an NCSS line count of 163
+src/mka/MKA.java:1135:	The method actionPerformed() has an NPath complexity of 1289945088
+src/mka/MKA.java:1135:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1137:	Local variable 'setting' could be declared final
+src/mka/MKA.java:1139:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1140:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1140:	System.out.println is used
+src/mka/MKA.java:1141:	Do not add empty strings
+src/mka/MKA.java:1141:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1147:	Avoid using Literals in Conditional Statements
+src/mka/MKA.java:1243:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1247:	System.out.println is used
+src/mka/MKA.java:1249:	Avoid using if...else statements without curly braces
+src/mka/MKA.java:1261:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1265:	Avoid using if...else statements without curly braces
+src/mka/MKA.java:1277:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1281:	Avoid using if...else statements without curly braces
+src/mka/MKA.java:1286:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1290:	System.out.println is used
+src/mka/MKA.java:1295:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1302:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1309:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1315:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1320:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1325:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1335:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1335:	Avoid empty catch blocks
+src/mka/MKA.java:1335:	Avoid empty catch blocks
+src/mka/MKA.java:1344:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1344:	Avoid empty catch blocks
+src/mka/MKA.java:1344:	Avoid empty catch blocks
+src/mka/MKA.java:1350:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1354:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1361:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1365:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1370:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1374:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1378:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1381:	Comment is too large: Line too long
+src/mka/MKA.java:1395:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1398:	Comment is too large: Line too long
+src/mka/MKA.java:1404:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1407:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1413:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1416:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1418:	Potential violation of Law of Demeter (method chain calls)
+src/mka/MKA.java:1421:	Potential violation of Law of Demeter (object not created locally)
+src/mka/MKA.java:1435:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1435:	Avoid empty catch blocks
+src/mka/MKA.java:1435:	Avoid empty catch blocks
+src/mka/MKA.java:1444:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/mka/MKA.java:1444:	Avoid empty catch blocks
+src/mka/MKA.java:1444:	Avoid empty catch blocks
+src/mka/MKA.java:1455:	Avoid really long methods.
+src/mka/MKA.java:1455:	Avoid variables with short names like me
+src/mka/MKA.java:1455:	Parameter 'me' is not assigned and could be declared final
+src/mka/MKA.java:1455:	The method 'mouseEntered' has a Cyclomatic Complexity of 22.
+src/mka/MKA.java:1455:	The method 'mouseEntered' has a Modified Cyclomatic Complexity of 22.
+src/mka/MKA.java:1455:	The method 'mouseEntered' has a Standard Cyclomatic Complexity of 22.
+src/mka/MKA.java:1455:	The method mouseEntered() has an NPath complexity of 2097152
+src/mka/MKA.java:1455:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1461:	Avoid empty if statements
+src/mka/MKA.java:1461:	Avoid empty if statements
+src/mka/MKA.java:1544:	Avoid empty if statements
+src/mka/MKA.java:1544:	Avoid empty if statements
+src/mka/MKA.java:1568:	Avoid variables with short names like me
+src/mka/MKA.java:1568:	Parameter 'me' is not assigned and could be declared final
+src/mka/MKA.java:1568:	The method 'mouseExited' has a Cyclomatic Complexity of 21.
+src/mka/MKA.java:1568:	The method 'mouseExited' has a Modified Cyclomatic Complexity of 21.
+src/mka/MKA.java:1568:	The method 'mouseExited' has a Standard Cyclomatic Complexity of 21.
+src/mka/MKA.java:1568:	The method mouseExited() has an NPath complexity of 1048576
+src/mka/MKA.java:1568:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1583:	Avoid empty if statements
+src/mka/MKA.java:1583:	Avoid empty if statements
+src/mka/MKA.java:1670:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mka/MKA.java:1670:	Use explicit scoping instead of the default package private level
+src/mka/MKA.java:1670:	fieldCommentRequirement Required
+src/mka/MKA.java:1672:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1681:	Avoid variables with short names like me
+src/mka/MKA.java:1681:	Parameter 'me' is not assigned and could be declared final
+src/mka/MKA.java:1681:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1687:	Avoid variables with short names like me
+src/mka/MKA.java:1687:	Parameter 'me' is not assigned and could be declared final
+src/mka/MKA.java:1687:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1691:	Avoid variables with short names like me
+src/mka/MKA.java:1691:	Document empty method
+src/mka/MKA.java:1691:	Parameter 'me' is not assigned and could be declared final
+src/mka/MKA.java:1691:	publicMethodCommentRequirement Required
+src/mka/MKA.java:1697:	publicMethodCommentRequirement Required
